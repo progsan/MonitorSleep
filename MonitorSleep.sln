@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MonitorSleep", "MonitorSleep\MonitorSleep.vcxproj", "{93F825A6-743E-4E08-86DC-7493B5823D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F825A6-743E-4E08-86DC-7493B5823D2D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93F825A6-743E-4E08-86DC-7493B5823D2D}.Debug|Win32.Build.0 = Debug|Win32
+		{93F825A6-743E-4E08-86DC-7493B5823D2D}.Release|Win32.ActiveCfg = Release|Win32
+		{93F825A6-743E-4E08-86DC-7493B5823D2D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36BFA00-BB11-4B51-9E48-C8CB01D14B86}
+	EndGlobalSection
+EndGlobal
